@@ -1,5 +1,5 @@
 
-## HEllo, I'm [Bhim Charan Bhakta!!!](https://mahakal2001.github.io/personal-website/) 👋
+## Hello, I'm [Bhim Charan Bhakta!!!](https://mahakal2001.github.io/personal-website/) 👋
 
 
 <a href="https://www.linkedin.com/in/bhim-charan-bhakta-997496175/">
@@ -30,12 +30,13 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 
 <a href="https://github.com/iamBhim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakal2001&theme=light&hide_langs_below=1" />
@@ -44,6 +45,40 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahakal2001&show_icons=true&theme=light&line_height=27" alt="Bhim's github stats"/>
 </a>
 
+<br />
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. BCA Bord: Maulana Abul Kalam Azad University of Technology
+   Global Institute of Science and Technology - [GIST], East Medinipur
+   Haldia, West Bengal (India) 
+   
+2. H.S Bord: West Bengal State Council of Technical & Vocational Education and Skill Development 
+   Bohich Beria High School
+   Nandakumar, West Bengal (India) 
+   
+3. Madhyamik Bord: West Bengal Board of Secondary Education
+   Mallik Chak Amar Smriti Vidyapith (H.S)
+   Nandakumar, West Bengal (India) 
+
+<br />
+
+### Languages:
+
+- 🇮🇳 Hindi : Advanced
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
+
+  <br />
+
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
 
 <div align="center">
 
